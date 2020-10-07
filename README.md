@@ -3,7 +3,6 @@
 ## I'm a Student!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking forward to learn new things everyday !!
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 <summary>:zap: GitHub Stats</summary>
