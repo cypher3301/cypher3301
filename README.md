@@ -1,11 +1,10 @@
-### Hi there, I'm Vraj 👋
+# Hey There, I'm Vraj! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 ## I'm a Student!!
 
 - 🌱 I’m currently learning Data Structures and Algorithms in C++
 - 🥅 2020 Goals: Contribute more to Open Source projects
-
-![coffee code](https://user-images.githubusercontent.com/51138087/93663687-87a63100-fa1e-11ea-841c-88dbd3e76d02.gif)
 
 [![Gmail Badge](https://img.shields.io/badge/-vrajp3301@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vrajp3301@gmail.com)](mailto:vrajp3301@gmail.com)
 <p>
