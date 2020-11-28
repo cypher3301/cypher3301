@@ -8,6 +8,7 @@
 - 💻 My Website : https://vrajp3301.github.io/Portfolio/
 <p>
 [![Gmail Badge](https://img.shields.io/badge/-vrajp3301@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vrajp3301@gmail.com)](mailto:vrajp3301@gmail.com)
+</p>
 <p>
 <summary>:zap: GitHub Stats</summary>
 </p>
