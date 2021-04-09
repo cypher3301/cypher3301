@@ -35,8 +35,6 @@
 
 ### Contact me
 
-<p>
 [![Linkedin Badge](https://img.shields.io/badge/-vrajpatel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vraj-patel/)](https://www.linkedin.com/in/vraj-patel/)
-</p>
 
 [![Gmail Badge](https://img.shields.io/badge/-vrajp3301@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vrajp3301@gmail.com)](mailto:vrajp3301@gmail.com)
