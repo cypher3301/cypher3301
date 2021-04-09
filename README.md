@@ -4,8 +4,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 💻 My Website : https://vrajp3301.github.io/Portfolio/
 
-[![Gmail Badge](https://img.shields.io/badge/-vrajp3301@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vrajp3301@gmail.com)](mailto:vrajp3301@gmail.com)
-
 <br />
 
 ### Languages and Tools:
@@ -35,6 +33,6 @@
 
 ### Contact me
 
-<p align="left">
-  <a href="https://linkedin.com/in/vraj-patel-147683193" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vrajpatel" height="60" width="45" /></a> &nbsp;&nbsp;
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-vrajpatel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vraj-patel/)](https://www.linkedin.com/in/vraj-patel/)
+
+[![Gmail Badge](https://img.shields.io/badge/-vrajp3301@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vrajp3301@gmail.com)](mailto:vrajp3301@gmail.com)
