@@ -1,4 +1,4 @@
-<img src="https://github.com/vrajp3301/vrajp3301/blob/master/output-1.gif" alt="Here is a little bit about me!">
+<img src="https://github.com/vrajp3301/vrajp3301/blob/master/output-1.gif" style ="max-width=60%" alt="Here is a little bit about me!">
 
 - 🌱 I’m currently Exploring backend technologies
 - 🥅 2021 Goals: Contribute more to Open Source projects
