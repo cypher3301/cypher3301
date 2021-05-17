@@ -1,4 +1,4 @@
-# Hey There, I'm Vraj! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![Hi, I'm Vraj 👋 I'm a Student I've teaching myself how to code!!](https://github.com/vrajp3301/vrajp3301/blob/main/assets/output.gif)
 
 
 - 🌱 I’m currently Exploring backend technologies
