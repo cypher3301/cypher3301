@@ -2,9 +2,7 @@
 
 
 <p align="center">
-- 🌱 I’m currently Exploring backend technologies
-- <br>
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently exploring MLOps and DevOps
 - <br>
 - 💻 My Website : https://vrajp3301.github.io/Portfolio/
 - <br>
